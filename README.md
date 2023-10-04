@@ -146,15 +146,3 @@ These findings and insights are instrumental for utility companies, policy-maker
 
 
 
-## 🧾 Citation
-
-If you use this project in your research or want to refer to it, please attribute it as follows:
-
-```bibtex
-@misc{author2023energy,
-  title={Streamlining MLOps for Energy Consumption Forecasting, A Case Study},
-  author={Filippos Priovolos},
-  year={2023},
-}
-
-
